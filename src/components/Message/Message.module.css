@@ -1,0 +1,17 @@
+.message {
+  padding: 10px;
+  margin: 10px;
+  width: fit-content;
+}
+
+.userMessage {
+  margin-left: auto;
+}
+
+.userCard {
+  background-color: cornflowerblue !important;
+}
+
+.guestCard{
+  background-color: rgb(113, 108, 108) !important;
+}

@@ -1,0 +1,23 @@
+.appForm {
+  padding: 20px;
+  margin: 20px;
+  position: fixed;
+  bottom: 0;
+  z-index: 1;
+  background-color: lightgray;
+  width: 90%;
+  border-radius: 7px;
+}
+
+.formControl {
+  display: flex;
+  flex-direction: row !important;
+}
+
+.inputField {
+  flex: 1;
+}
+
+.iconButton {
+  flex: 0;
+}
